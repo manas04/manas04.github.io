@@ -1711,7 +1711,7 @@ input, select, textarea {
 			text-decoration: underline; 
 		}
 		
-		/* Responsive adjustments */
+		
 		@media (max-width: 768px) {
 			.certification-item {
 				width: calc(100% - 40px); 
